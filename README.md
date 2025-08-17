@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Saron
+- 🌱 Learning: DSA (C/C++)
+- 🚀 Goal: FAANG-ready in 2 years
+- 🧰 Tools: VS Code, Git, Android Studio
+
