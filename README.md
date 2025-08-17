@@ -1,4 +1,4 @@
-## Hi there 👋
+## Nahid Mahmud Saron 👋
 
 <!--
 **nahid-mahmud-saron-29/nahid-mahmud-saron-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Saron
+# 👋 Saron
 - 🌱 Learning: DSA (C/C++)
 - 🚀 Goal: FAANG-ready in 2 years
 - 🧰 Tools: VS Code, Git, Android Studio
